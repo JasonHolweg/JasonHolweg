@@ -1,6 +1,6 @@
 # Jason Holweg
 
-Ich automatisiere Abläufe in Betrieben mit 10–50 Mitarbeitern — Dienstplanung, Zeiterfassung
+Ich automatisiere Abläufe in Betrieben — Dienstplanung, Zeiterfassung
 mit Lohnbüro-Export, digitale Checklisten und die Software drumherum. Webseiten baue ich auch,
 oft als Einstieg. Selbstständig in Flensburg.
 
